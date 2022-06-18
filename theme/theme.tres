@@ -1,0 +1,26 @@
+[gd_resource type="Theme" load_steps=5 format=2]
+
+[ext_resource path="res://theme/dogica_16_font.tres" type="DynamicFont" id=1]
+[ext_resource path="res://theme/style_tab_inactive.tres" type="StyleBox" id=2]
+[ext_resource path="res://theme/style_button_pressed.tres" type="StyleBox" id=3]
+[ext_resource path="res://theme/style_tab_active.tres" type="StyleBox" id=4]
+
+[resource]
+default_font = ExtResource( 1 )
+Button/colors/font_color = Color( 1, 1, 1, 1 )
+Button/styles/hover = ExtResource( 4 )
+Button/styles/normal = ExtResource( 4 )
+Button/styles/pressed = ExtResource( 3 )
+HBoxContainer/constants/separation = 0
+Panel/styles/panel = ExtResource( 4 )
+PanelContainer/styles/panel = ExtResource( 4 )
+ProgressBar/styles/bg = ExtResource( 2 )
+ProgressBar/styles/fg = ExtResource( 4 )
+TabContainer/fonts/font = null
+TabContainer/styles/panel = null
+TabContainer/styles/tab_bg = null
+TabContainer/styles/tab_fg = ExtResource( 4 )
+VBoxContainer/constants/separation = 0
+VScrollBar/styles/grabber = ExtResource( 4 )
+VScrollBar/styles/grabber_highlight = ExtResource( 4 )
+VScrollBar/styles/grabber_pressed = null
