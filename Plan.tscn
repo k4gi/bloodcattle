@@ -65,3 +65,9 @@ margin_top = 96.0
 margin_right = 940.0
 margin_bottom = 112.0
 text = "- Let's start with some pixel art."
+
+[node name="Label8" type="Label" parent="MarginContainer/PanelContainer/VBoxContainer"]
+margin_top = 112.0
+margin_right = 940.0
+margin_bottom = 128.0
+text = "- The first thing the vampires should be able to do is hunt humans!"
