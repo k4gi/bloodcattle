@@ -7,6 +7,10 @@ onready var Map = $Pathfinding
 var path = AStar2D.new()
 
 
+func _ready():
+	build_paths()
+
+
 #copied from scrabble/levels/GeneratedLevel.gd on 2022-06-22
 #doesn't look that complicated but my eyes are sliding right off. i don't remember.
 func build_paths():
