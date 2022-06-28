@@ -42,3 +42,7 @@ func build_paths():
 				if x_diff <= Map.get_cell_size().x * Map.get_scale().x /2 and \
 					y_diff <= Map.get_cell_size().y * Map.get_scale().y /2:
 						path.connect_points(node_one, node_two)
+
+
+func _on_Button_pressed():
+	get_node("Vampire").move_pause = false

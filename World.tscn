@@ -167,3 +167,26 @@ script = ExtResource( 4 )
 
 [node name="Destination" type="Node2D" parent="."]
 position = Vector2( 860, 97 )
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+margin_right = 43.0
+margin_bottom = 20.0
+
+[node name="Button" type="Button" parent="MarginContainer/VBoxContainer"]
+margin_right = 43.0
+margin_bottom = 20.0
+size_flags_horizontal = 0
+text = "Hunt"
+
+[node name="Label" type="Label" parent="MarginContainer/VBoxContainer"]
+visible = false
+margin_top = 24.0
+margin_right = 165.0
+margin_bottom = 38.0
+text = "Hunter is already hunting!"
+
+[connection signal="pressed" from="MarginContainer/VBoxContainer/Button" to="." method="_on_Button_pressed"]
