@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/adventurer-stand-00.png-de01f7920f343ad585e6c97c2658ea53.stex"
+path="res://.import/adventurer-stand-00.png-2f0bef5dee5c2bd725a6a9ad1053fbd0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Adventurer-1.5/Individual Sprites/adventurer-stand-00.png"
-dest_files=[ "res://.import/adventurer-stand-00.png-de01f7920f343ad585e6c97c2658ea53.stex" ]
+source_file="res://whowalksyourdog/assets/Adventurer-1.5/Individual Sprites/adventurer-stand-00.png"
+dest_files=[ "res://.import/adventurer-stand-00.png-2f0bef5dee5c2bd725a6a9ad1053fbd0.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PlayerAttack4.png-41819d01883822c302e46060d99c0b26.stex"
+path="res://.import/PlayerAttack4.png-fcfefd38a37abcbd3172198dd648d8d1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Platform Asset Cyber gianman/Player/PlayerAttack4.png"
-dest_files=[ "res://.import/PlayerAttack4.png-41819d01883822c302e46060d99c0b26.stex" ]
+source_file="res://whowalksyourdog/assets/Platform Asset Cyber gianman/Player/PlayerAttack4.png"
+dest_files=[ "res://.import/PlayerAttack4.png-fcfefd38a37abcbd3172198dd648d8d1.stex" ]
 
 [params]
 

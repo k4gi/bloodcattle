@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/person01.png-cfa04f9f60596e961be046165ba6efff.stex"
+path="res://.import/person01.png-155529d4d3ed3d6130fc85132d626b68.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/person01.png"
-dest_files=[ "res://.import/person01.png-cfa04f9f60596e961be046165ba6efff.stex" ]
+source_file="res://whowalksyourdog/assets/person01.png"
+dest_files=[ "res://.import/person01.png-155529d4d3ed3d6130fc85132d626b68.stex" ]
 
 [params]
 

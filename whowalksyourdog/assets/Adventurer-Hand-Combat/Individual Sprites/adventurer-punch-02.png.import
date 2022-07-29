@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/adventurer-punch-02.png-0a79c38128eb25947f3072c3f58a015a.stex"
+path="res://.import/adventurer-punch-02.png-63a8dab480eab263ea075ce0b3506942.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Adventurer-Hand-Combat/Individual Sprites/adventurer-punch-02.png"
-dest_files=[ "res://.import/adventurer-punch-02.png-0a79c38128eb25947f3072c3f58a015a.stex" ]
+source_file="res://whowalksyourdog/assets/Adventurer-Hand-Combat/Individual Sprites/adventurer-punch-02.png"
+dest_files=[ "res://.import/adventurer-punch-02.png-63a8dab480eab263ea075ce0b3506942.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/17_Visibile_Upstairs_System_16x16.png-7b3f33b868f6ef6cf6135a76ac0398b9.stex"
+path="res://.import/17_Visibile_Upstairs_System_16x16.png-3e1d0d1553b245a8ddd68a93323a8e76.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modern interiors limezu/17_Visibile_Upstairs_System_16x16.png"
-dest_files=[ "res://.import/17_Visibile_Upstairs_System_16x16.png-7b3f33b868f6ef6cf6135a76ac0398b9.stex" ]
+source_file="res://whowalksyourdog/assets/modern interiors limezu/17_Visibile_Upstairs_System_16x16.png"
+dest_files=[ "res://.import/17_Visibile_Upstairs_System_16x16.png-3e1d0d1553b245a8ddd68a93323a8e76.stex" ]
 
 [params]
 

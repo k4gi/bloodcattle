@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Ground.png-5306e64d47ad9e1fb4d542fc629b063c.stex"
+path="res://.import/Ground.png-511fa3901019943d7ca9a2106f4e50e9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Purple_Lex_BG miisan/Ground.png"
-dest_files=[ "res://.import/Ground.png-5306e64d47ad9e1fb4d542fc629b063c.stex" ]
+source_file="res://whowalksyourdog/assets/Purple_Lex_BG miisan/Ground.png"
+dest_files=[ "res://.import/Ground.png-511fa3901019943d7ca9a2106f4e50e9.stex" ]
 
 [params]
 

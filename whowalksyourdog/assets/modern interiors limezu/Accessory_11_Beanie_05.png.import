@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Accessory_11_Beanie_05.png-8255befca57a5194987b1b976d1032e9.stex"
+path="res://.import/Accessory_11_Beanie_05.png-93b45f1ca4fe884991d036528135e1fa.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modern interiors limezu/Accessory_11_Beanie_05.png"
-dest_files=[ "res://.import/Accessory_11_Beanie_05.png-8255befca57a5194987b1b976d1032e9.stex" ]
+source_file="res://whowalksyourdog/assets/modern interiors limezu/Accessory_11_Beanie_05.png"
+dest_files=[ "res://.import/Accessory_11_Beanie_05.png-93b45f1ca4fe884991d036528135e1fa.stex" ]
 
 [params]
 

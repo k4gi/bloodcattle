@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Body_05.png-cc702d47b29a44486ae17a760786ea4d.stex"
+path="res://.import/Body_05.png-dd1e68577d3b08c1455817e95799ba48.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modern interiors limezu/Body_05.png"
-dest_files=[ "res://.import/Body_05.png-cc702d47b29a44486ae17a760786ea4d.stex" ]
+source_file="res://whowalksyourdog/assets/modern interiors limezu/Body_05.png"
+dest_files=[ "res://.import/Body_05.png-dd1e68577d3b08c1455817e95799ba48.stex" ]
 
 [params]
 

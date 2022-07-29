@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sign.png-c441166719b750bd075d3338bc55f931.stex"
+path="res://.import/Sign.png-8b80e80a21ff815bb6f32fd5d7717117.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Purple_Lex_BG miisan/Sign.png"
-dest_files=[ "res://.import/Sign.png-c441166719b750bd075d3338bc55f931.stex" ]
+source_file="res://whowalksyourdog/assets/Purple_Lex_BG miisan/Sign.png"
+dest_files=[ "res://.import/Sign.png-8b80e80a21ff815bb6f32fd5d7717117.stex" ]
 
 [params]
 

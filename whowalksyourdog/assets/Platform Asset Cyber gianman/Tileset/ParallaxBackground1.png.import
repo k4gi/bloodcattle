@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/ParallaxBackground1.png-69eb4a057335422e8f30d7a01d490aab.stex"
+path="res://.import/ParallaxBackground1.png-6c9239ed8a6dec37b348cacb4e2d4d4f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Platform Asset Cyber gianman/Tileset/ParallaxBackground1.png"
-dest_files=[ "res://.import/ParallaxBackground1.png-69eb4a057335422e8f30d7a01d490aab.stex" ]
+source_file="res://whowalksyourdog/assets/Platform Asset Cyber gianman/Tileset/ParallaxBackground1.png"
+dest_files=[ "res://.import/ParallaxBackground1.png-6c9239ed8a6dec37b348cacb4e2d4d4f.stex" ]
 
 [params]
 

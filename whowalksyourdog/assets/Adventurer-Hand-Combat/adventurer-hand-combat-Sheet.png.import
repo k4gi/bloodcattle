@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/adventurer-hand-combat-Sheet.png-c47c58f029c2533ded2fb2698dffdc8c.stex"
+path="res://.import/adventurer-hand-combat-Sheet.png-699e09056b96d420dced518609424442.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Adventurer-Hand-Combat/adventurer-hand-combat-Sheet.png"
-dest_files=[ "res://.import/adventurer-hand-combat-Sheet.png-c47c58f029c2533ded2fb2698dffdc8c.stex" ]
+source_file="res://whowalksyourdog/assets/Adventurer-Hand-Combat/adventurer-hand-combat-Sheet.png"
+dest_files=[ "res://.import/adventurer-hand-combat-Sheet.png-699e09056b96d420dced518609424442.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/adventurer-get-up-06.png-34034d63c3dafeb3156f75f348380ffd.stex"
+path="res://.import/adventurer-get-up-06.png-616b91ac3ead2a68ae7f92d28f75d167.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Adventurer-Hand-Combat/Individual Sprites/adventurer-get-up-06.png"
-dest_files=[ "res://.import/adventurer-get-up-06.png-34034d63c3dafeb3156f75f348380ffd.stex" ]
+source_file="res://whowalksyourdog/assets/Adventurer-Hand-Combat/Individual Sprites/adventurer-get-up-06.png"
+dest_files=[ "res://.import/adventurer-get-up-06.png-616b91ac3ead2a68ae7f92d28f75d167.stex" ]
 
 [params]
 

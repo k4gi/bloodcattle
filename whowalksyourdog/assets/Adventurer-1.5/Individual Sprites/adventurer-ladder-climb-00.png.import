@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/adventurer-ladder-climb-00.png-6a8bb19a8142d68978aec02ff666c02a.stex"
+path="res://.import/adventurer-ladder-climb-00.png-f74003b98ddb1af8988b488e98a4f781.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Adventurer-1.5/Individual Sprites/adventurer-ladder-climb-00.png"
-dest_files=[ "res://.import/adventurer-ladder-climb-00.png-6a8bb19a8142d68978aec02ff666c02a.stex" ]
+source_file="res://whowalksyourdog/assets/Adventurer-1.5/Individual Sprites/adventurer-ladder-climb-00.png"
+dest_files=[ "res://.import/adventurer-ladder-climb-00.png-f74003b98ddb1af8988b488e98a4f781.stex" ]
 
 [params]
 

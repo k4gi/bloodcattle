@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mountains.png-adf30daa644d8b1e5517d6634081648e.stex"
+path="res://.import/mountains.png-19e58b2b27a9aee77a37664682f71475.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Purple_Lex_BG miisan/mountains.png"
-dest_files=[ "res://.import/mountains.png-adf30daa644d8b1e5517d6634081648e.stex" ]
+source_file="res://whowalksyourdog/assets/Purple_Lex_BG miisan/mountains.png"
+dest_files=[ "res://.import/mountains.png-19e58b2b27a9aee77a37664682f71475.stex" ]
 
 [params]
 

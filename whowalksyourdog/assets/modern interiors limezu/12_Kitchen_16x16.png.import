@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/12_Kitchen_16x16.png-e8991daa0eba11d13570ae4a35893f57.stex"
+path="res://.import/12_Kitchen_16x16.png-093cfa272d4d15e4f8d6e00e79944d4f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modern interiors limezu/12_Kitchen_16x16.png"
-dest_files=[ "res://.import/12_Kitchen_16x16.png-e8991daa0eba11d13570ae4a35893f57.stex" ]
+source_file="res://whowalksyourdog/assets/modern interiors limezu/12_Kitchen_16x16.png"
+dest_files=[ "res://.import/12_Kitchen_16x16.png-093cfa272d4d15e4f8d6e00e79944d4f.stex" ]
 
 [params]
 

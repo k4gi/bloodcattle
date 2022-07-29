@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/UI_thinking_emotes_animation_16x16.png-d364a1eb191890f7441d56a042c8373c.stex"
+path="res://.import/UI_thinking_emotes_animation_16x16.png-1b4698f1d74c440d4ad3f05a4c0ac80e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modern interiors limezu/UI_thinking_emotes_animation_16x16.png"
-dest_files=[ "res://.import/UI_thinking_emotes_animation_16x16.png-d364a1eb191890f7441d56a042c8373c.stex" ]
+source_file="res://whowalksyourdog/assets/modern interiors limezu/UI_thinking_emotes_animation_16x16.png"
+dest_files=[ "res://.import/UI_thinking_emotes_animation_16x16.png-1b4698f1d74c440d4ad3f05a4c0ac80e.stex" ]
 
 [params]
 

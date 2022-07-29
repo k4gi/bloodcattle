@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/adventurer-air-attack1-02.png-bb39ec96e2780f03e7e92e2744c00c35.stex"
+path="res://.import/adventurer-air-attack1-02.png-dca34ec08e0c44ec85411a884626ba79.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Adventurer-1.5/Individual Sprites/adventurer-air-attack1-02.png"
-dest_files=[ "res://.import/adventurer-air-attack1-02.png-bb39ec96e2780f03e7e92e2744c00c35.stex" ]
+source_file="res://whowalksyourdog/assets/Adventurer-1.5/Individual Sprites/adventurer-air-attack1-02.png"
+dest_files=[ "res://.import/adventurer-air-attack1-02.png-dca34ec08e0c44ec85411a884626ba79.stex" ]
 
 [params]
 

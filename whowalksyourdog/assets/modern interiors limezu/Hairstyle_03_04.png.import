@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Hairstyle_03_04.png-d03c1f5141c1f5aa72b153de1290e880.stex"
+path="res://.import/Hairstyle_03_04.png-a7b179037fc7d157d8184e2fe8fe022a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modern interiors limezu/Hairstyle_03_04.png"
-dest_files=[ "res://.import/Hairstyle_03_04.png-d03c1f5141c1f5aa72b153de1290e880.stex" ]
+source_file="res://whowalksyourdog/assets/modern interiors limezu/Hairstyle_03_04.png"
+dest_files=[ "res://.import/Hairstyle_03_04.png-a7b179037fc7d157d8184e2fe8fe022a.stex" ]
 
 [params]
 

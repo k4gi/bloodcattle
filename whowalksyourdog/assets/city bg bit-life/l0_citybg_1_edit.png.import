@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/l0_citybg_1_edit.png-a099daa18cf8d96ace12fe61c1f633b6.stex"
+path="res://.import/l0_citybg_1_edit.png-6957a63a854e59ec756ac437166f5f6a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/city bg bit-life/l0_citybg_1_edit.png"
-dest_files=[ "res://.import/l0_citybg_1_edit.png-a099daa18cf8d96ace12fe61c1f633b6.stex" ]
+source_file="res://whowalksyourdog/assets/city bg bit-life/l0_citybg_1_edit.png"
+dest_files=[ "res://.import/l0_citybg_1_edit.png-6957a63a854e59ec756ac437166f5f6a.stex" ]
 
 [params]
 

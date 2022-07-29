@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Modern_Office_Black_Shadow.png-8daba2689242ee7b878ca7b686becc68.stex"
+path="res://.import/Modern_Office_Black_Shadow.png-f358ecb7f565b0ee0160b938fc8356cf.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modern office limezu/Modern_Office_Black_Shadow.png"
-dest_files=[ "res://.import/Modern_Office_Black_Shadow.png-8daba2689242ee7b878ca7b686becc68.stex" ]
+source_file="res://whowalksyourdog/assets/modern office limezu/Modern_Office_Black_Shadow.png"
+dest_files=[ "res://.import/Modern_Office_Black_Shadow.png-f358ecb7f565b0ee0160b938fc8356cf.stex" ]
 
 [params]
 

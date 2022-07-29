@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Leaves5.png-263ac479e105ba64b4bf229741567a63.stex"
+path="res://.import/Leaves5.png-dcdc3adca9a2eca96c558f30ab23c758.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Purple_Lex_BG miisan/Animated_Leaves/Leaves5.png"
-dest_files=[ "res://.import/Leaves5.png-263ac479e105ba64b4bf229741567a63.stex" ]
+source_file="res://whowalksyourdog/assets/Purple_Lex_BG miisan/Animated_Leaves/Leaves5.png"
+dest_files=[ "res://.import/Leaves5.png-dcdc3adca9a2eca96c558f30ab23c758.stex" ]
 
 [params]
 

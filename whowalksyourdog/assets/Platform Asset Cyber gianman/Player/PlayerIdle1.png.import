@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PlayerIdle1.png-78e4314b72aacb16f976c5253f789f12.stex"
+path="res://.import/PlayerIdle1.png-ef49c266f3d1b9e4991367827f9d039d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Platform Asset Cyber gianman/Player/PlayerIdle1.png"
-dest_files=[ "res://.import/PlayerIdle1.png-78e4314b72aacb16f976c5253f789f12.stex" ]
+source_file="res://whowalksyourdog/assets/Platform Asset Cyber gianman/Player/PlayerIdle1.png"
+dest_files=[ "res://.import/PlayerIdle1.png-ef49c266f3d1b9e4991367827f9d039d.stex" ]
 
 [params]
 

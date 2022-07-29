@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/l1_bg_1.png-d4c36314ef33a22dbe14b6988c62df13.stex"
+path="res://.import/l1_bg_1.png-28697acb9faaca599106137fcd9ee408.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/clouds bg bit-life/l1_bg_1.png"
-dest_files=[ "res://.import/l1_bg_1.png-d4c36314ef33a22dbe14b6988c62df13.stex" ]
+source_file="res://whowalksyourdog/assets/clouds bg bit-life/l1_bg_1.png"
+dest_files=[ "res://.import/l1_bg_1.png-28697acb9faaca599106137fcd9ee408.stex" ]
 
 [params]
 

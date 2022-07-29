@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/adventurer-crouch-walk-03.png-b8bd70153bade45fab76a9e3d0078801.stex"
+path="res://.import/adventurer-crouch-walk-03.png-0fd8f7b012fe4a0c1dd5cebc3e7ce4cb.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Adventurer-Hand-Combat/Individual Sprites/adventurer-crouch-walk-03.png"
-dest_files=[ "res://.import/adventurer-crouch-walk-03.png-b8bd70153bade45fab76a9e3d0078801.stex" ]
+source_file="res://whowalksyourdog/assets/Adventurer-Hand-Combat/Individual Sprites/adventurer-crouch-walk-03.png"
+dest_files=[ "res://.import/adventurer-crouch-walk-03.png-0fd8f7b012fe4a0c1dd5cebc3e7ce4cb.stex" ]
 
 [params]
 

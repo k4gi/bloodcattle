@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/PlayerSpriteSheetCyber.png-dde6c795ed99b9e01d2f46e81d374689.stex"
+path="res://.import/PlayerSpriteSheetCyber.png-e3a80065b271918c13ef2efda3dda766.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Platform Asset Cyber gianman/Player/PlayerSpriteSheetCyber.png"
-dest_files=[ "res://.import/PlayerSpriteSheetCyber.png-dde6c795ed99b9e01d2f46e81d374689.stex" ]
+source_file="res://whowalksyourdog/assets/Platform Asset Cyber gianman/Player/PlayerSpriteSheetCyber.png"
+dest_files=[ "res://.import/PlayerSpriteSheetCyber.png-e3a80065b271918c13ef2efda3dda766.stex" ]
 
 [params]
 

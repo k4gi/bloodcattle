@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/24_Ice_Cream_Shop.png-fa4f7eb15a2ee23acf3df0347725f1e4.stex"
+path="res://.import/24_Ice_Cream_Shop.png-841aa028afbbffa2d461e11535f9c9c1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/modern interiors limezu/24_Ice_Cream_Shop.png"
-dest_files=[ "res://.import/24_Ice_Cream_Shop.png-fa4f7eb15a2ee23acf3df0347725f1e4.stex" ]
+source_file="res://whowalksyourdog/assets/modern interiors limezu/24_Ice_Cream_Shop.png"
+dest_files=[ "res://.import/24_Ice_Cream_Shop.png-841aa028afbbffa2d461e11535f9c9c1.stex" ]
 
 [params]
 

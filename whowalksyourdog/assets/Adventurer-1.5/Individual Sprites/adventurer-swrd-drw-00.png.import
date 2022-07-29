@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/adventurer-swrd-drw-00.png-b600e2371ad6d8ac99caee43acbda69f.stex"
+path="res://.import/adventurer-swrd-drw-00.png-dfd275d81c6d1abc91b51659c4d0bcd8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Adventurer-1.5/Individual Sprites/adventurer-swrd-drw-00.png"
-dest_files=[ "res://.import/adventurer-swrd-drw-00.png-b600e2371ad6d8ac99caee43acbda69f.stex" ]
+source_file="res://whowalksyourdog/assets/Adventurer-1.5/Individual Sprites/adventurer-swrd-drw-00.png"
+dest_files=[ "res://.import/adventurer-swrd-drw-00.png-dfd275d81c6d1abc91b51659c4d0bcd8.stex" ]
 
 [params]
 

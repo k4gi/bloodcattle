@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Cloud.png-79aa140eb4f83f98df5bd1e44605afc7.stex"
+path="res://.import/Cloud.png-0755ebff44852d55eb26d8260a289543.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Purple_Lex_BG miisan/Cloud.png"
-dest_files=[ "res://.import/Cloud.png-79aa140eb4f83f98df5bd1e44605afc7.stex" ]
+source_file="res://whowalksyourdog/assets/Purple_Lex_BG miisan/Cloud.png"
+dest_files=[ "res://.import/Cloud.png-0755ebff44852d55eb26d8260a289543.stex" ]
 
 [params]
 
